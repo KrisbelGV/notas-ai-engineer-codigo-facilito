@@ -34,6 +34,6 @@ Ninguno, acorde al perfil de ingreso, pero se recomiendan conocimientos básicos
 
 ## Licencia y condiciones
 
-Compartido por una estudiante para uso personal y de aprendizaje, __DERECHOS RESERVADOS A CÓDIGO FACILITO EN TODO EL MATERIAL PROTEGIDO POR COPYRIGHT DE SU AUTORÍA__. Presto a su completa disposición lo que de mi parte añada, entre tanto cubierto bajo la licencia [CC BY-SA 4.0](LICENSE.txt).
+Compartido por una estudiante para uso personal y de aprendizaje, __DERECHOS RESERVADOS A CÓDIGO FACILITO EN TODO EL MATERIAL PROTEGIDO POR COPYRIGHT DE SU AUTORÍA__. Presto a su completa disposición lo que de mi parte añada, entre tanto cubierto bajo la licencia [CC BY-SA 4.0](LICENSE).
 
 Para sugerencias y corrección de errores no dudes en contactarme ya sea mediante un issue u a través del canal de oficial en Telegram.
