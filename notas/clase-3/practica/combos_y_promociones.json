@@ -1,0 +1,20 @@
+[
+  {
+    "nombre_combo": "Combo Arrepentimiento Sublime",
+    "contenido": "12 Rosas Aterciopeladas (Rojo Carmesí) + 1 Orquídea Clarita (Blanco Puro) + Tarjeta manuscrita con mensaje personalizado + Frasco de 10ml de 'Gotas de Luna' de regalo.",
+    "precio_combo": 64.50,
+    "ocasion_ideal": "Disculpas formales o peticiones de perdón significativas."
+  },
+  {
+    "nombre_combo": "Combo Tardes de Otoño",
+    "contenido": "3 Girasoles Titan (Chocolate intenso) + 5 Lirios Estelares (Púrpura) en papel kraft reciclado con cinta de yute.",
+    "precio_combo": 45.00,
+    "ocasion_ideal": "Cenas informales de otoño, agradecimientos no románticos o para alegrar una oficina con colores cálidos."
+  },
+  {
+    "nombre_combo": "Combo Bruma Matinal",
+    "contenido": "5 Tulipanes Iceberg (Azul Hielo) + 3 Rosas Aterciopeladas (Rojo Carmesí) presentados en caja de madera lacada en blanco.",
+    "precio_combo": 38.90,
+    "ocasion_ideal": "Regalos de aniversario modernos o para dar los buenos días de forma elegante."
+  }
+]
