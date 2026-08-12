@@ -1,6 +1,6 @@
 """
 Url del curso: https://codigofacilito.com/curso-ia
-Notas de la clase: Notas de la clase: https://github.com/KrisbelGV/notas-ia-engineer-codigo-facilito/notas/clase-2/clase-2.md
+Notas de la clase: Notas de la clase: https://github.com/KrisbelGV/notas-ai-engineer-codigo-facilito/blob/main/notas/clase-2/clase-2.md
 Fundamentos de Ingeniero de IA con Python de Código Facilito
 Clase #2
 Profesor: Eduardo Ismael Garcia
